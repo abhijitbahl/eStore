@@ -18,3 +18,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 Please reach out to me at abhijit.bahl27@gmail.com if you have any concerns
+<img width="1406" alt="Screenshot 2024-07-31 at 10 47 20 AM" src="https://github.com/user-attachments/assets/4e59c20f-cbe9-4c27-97b9-d2d21c1ced60">
+
+
+<img width="1346" alt="Screenshot 2024-07-31 at 10 50 46 AM" src="https://github.com/user-attachments/assets/2edfdcbd-6d3e-4568-bf04-354b6bedd05c">
